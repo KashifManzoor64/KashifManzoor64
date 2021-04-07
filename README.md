@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kashif Manzoor
+- 👀 I’m interested in ERP
+- 🌱 I’m currently learning Python based ERP Odoo
+- 💞️ I’m looking to collaborate on the odoo community version
+- 📫 Reach me on kashif.manzoor64@gmail.com / +923100474899
